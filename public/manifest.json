@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
 
-  "name": "Chrome Extension TypeScript Starter",
-  "description": "Chrome Extension, TypeScript, Visual Studio Code",
+  "name": "TubeLens",
+  "description": "This is an extension that allows you to zoom in on a part of a YouTube video.",
   "version": "1.0",
 
   "options_ui": {
